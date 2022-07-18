@@ -1,0 +1,13 @@
+Ventanas\VentanaPrincipal.class
+model\Materia.class
+controller\Principal.class
+controller\PrincipalController.class
+Ventanas\NuevaCarrera$3.class
+model\Cursada.class
+Ventanas\NuevaCarrera$2.class
+Ventanas\NuevaCarrera.class
+Ventanas\NuevaCarrera$1.class
+model\Carrera.class
+model\PlanEstudio.class
+Ventanas\VentanaPrincipal$1.class
+model\Alumno.class
